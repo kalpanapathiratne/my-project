@@ -1,3 +1,5 @@
 Activity - Git
 
-Collaborated with Savindi for bonus marks!
+Collaborated with Savindi
+
+Thank you savindi !
